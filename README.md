@@ -1,4 +1,4 @@
-NOTE: NOT COMLPETED DUE TO FIREBASE STORAGE ISSUE
+NOTE: NOT COMLPETED DUE TO FIREBASE STORAGE ISSUE (to be continued)
 # 🍽️ Recipe App
 
 A beautifully designed **Recipe App** built with **Flutter** using **Provider** for state management. The app allows users to browse, search, and view details of delicious recipes. It provides an easy and elegant way to explore cooking inspiration.
